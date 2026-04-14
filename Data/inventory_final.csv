@@ -1,0 +1,119 @@
+product_id,avg_daily_demand_30d,category_name,revenue_quartile,days_of_stock,simulated_stock,stock_status,priority_critical
+19,1.0833333333333333,Soccer,Q1_Low,37.0,40,Healthy,False
+24,3.3076923076923075,Soccer,Q2_Med,65.0,215,Overstocked,False
+35,1.1666666666666667,Baseball & Softball,Q2_Med,41.0,47,Healthy,False
+37,2.388235294117647,Baseball & Softball,Q2_Med,56.0,133,Healthy,False
+44,2.66,Baseball & Softball,Q4_Top,8.0,21,Warning,False
+58,1.4,Basketball,Q1_Low,13.0,18,Warning,False
+60,2.0,Basketball,Q2_Med,1.0,2,Critical,False
+61,1.6,Basketball,Q1_Low,115.0,184,Overstocked,False
+78,1.8,Lacrosse,Q1_Low,47.0,84,Healthy,False
+93,2.462365591397849,Lacrosse,Q2_Med,23.0,56,Healthy,False
+116,2.902654867256637,Tennis & Racquet,Q3_High,1.0,2,Critical,False
+127,2.0,Hockey,Q3_High,92.0,184,Overstocked,False
+134,3.358407079646017,Hockey,Q4_Top,43.0,144,Healthy,False
+135,3.3517786561264824,Hockey,Q4_Top,10.0,33,Warning,False
+172,2.381443298969072,Cardio Equipment,Q2_Med,10.0,23,Warning,False
+191,10.297379032258064,Cardio Equipment,Q4_Top,10.0,102,Warning,False
+203,1.4705882352941178,Strength Training,Q3_High,11.0,16,Warning,False
+208,2.333333333333333,Strength Training,Q3_High,38.0,88,Healthy,False
+216,1.2058823529411764,Strength Training,Q3_High,27.0,32,Healthy,False
+226,2.5,Fitness Accessories,Q1_Low,11.0,27,Warning,False
+235,2.5408163265306123,Fitness Accessories,Q3_High,50.0,127,Healthy,False
+249,2.677083333333333,Boxing & MMA,Q3_High,3.0,8,Critical,False
+251,2.9,Boxing & MMA,Q2_Med,11.0,31,Warning,False
+258,2.7,Boxing & MMA,Q2_Med,15.0,40,Healthy,False
+273,2.7011494252873565,Electronics,Q2_Med,22.0,59,Healthy,False
+276,2.606382978723404,Electronics,Q3_High,60.0,156,Healthy,False
+278,2.50561797752809,Electronics,Q3_High,10.0,25,Warning,False
+282,2.5168539325842696,Electronics,Q2_Med,28.0,70,Healthy,False
+295,2.230769230769231,Kids' Golf Clubs,Q1_Low,26.0,58,Healthy,False
+303,2.0,Kids' Golf Clubs,Q1_Low,7.0,14,Critical,False
+305,1.1904761904761905,Kids' Golf Clubs,Q1_Low,29.0,34,Healthy,False
+306,3.555555555555556,Kids' Golf Clubs,Q1_Low,12.0,42,Warning,False
+311,1.0625,Kids' Golf Clubs,Q1_Low,1.0,1,Critical,False
+359,3.0,As Seen on  TV!,Q2_Med,73.0,219,Overstocked,False
+364,1.8,Cleats,Q2_Med,72.0,129,Overstocked,False
+365,18.694831013916502,Cleats,Q4_Top,37.0,691,Healthy,False
+403,11.882703777335983,Men's Footwear,Q4_Top,13.0,154,Warning,False
+502,14.161676646706589,Women's Apparel,Q4_Top,2.0,28,Critical,True
+564,2.774193548387097,Girls' Apparel,Q2_Med,36.0,99,Healthy,False
+565,2.9176470588235293,Girls' Apparel,Q4_Top,36.0,105,Healthy,False
+567,2.3823529411764706,Girls' Apparel,Q1_Low,6.0,14,Critical,False
+572,2.736842105263158,Girls' Apparel,Q3_High,20.0,54,Healthy,False
+607,1.0,Trade-In,Q1_Low,2.0,2,Critical,False
+625,1.0,Shop By Sport,Q1_Low,86.0,86,Overstocked,False
+627,7.523504273504273,Shop By Sport,Q4_Top,13.0,97,Warning,False
+642,2.924731182795699,Shop By Sport,Q3_High,47.0,137,Healthy,False
+646,3.4444444444444446,Men's Golf Clubs,Q3_High,11.0,37,Warning,False
+647,1.0526315789473684,Men's Golf Clubs,Q2_Med,58.0,61,Healthy,False
+652,1.1935483870967742,Men's Golf Clubs,Q1_Low,58.0,69,Healthy,False
+666,1.1219512195121952,Men's Golf Clubs,Q2_Med,8.0,8,Warning,False
+671,1.0285714285714285,Women's Golf Clubs,Q3_High,111.0,114,Overstocked,False
+677,3.911764705882353,Women's Golf Clubs,Q3_High,18.0,70,Healthy,False
+691,3.5217391304347827,Women's Golf Clubs,Q2_Med,67.0,235,Overstocked,False
+703,3.397590361445783,Golf Apparel,Q3_High,64.0,217,Overstocked,False
+705,1.105263157894737,Golf Apparel,Q1_Low,46.0,50,Healthy,False
+715,1.1282051282051282,Golf Apparel,Q2_Med,113.0,127,Overstocked,False
+724,4.153846153846154,Golf Shoes,Q4_Top,1.0,4,Critical,True
+725,1.1282051282051282,Golf Shoes,Q1_Low,13.0,14,Warning,False
+728,3.270440251572327,Golf Shoes,Q4_Top,3.0,9,Critical,True
+730,3.282051282051282,Golf Shoes,Q3_High,13.0,42,Warning,False
+743,1.1842105263157894,Golf Bags & Carts,Q3_High,56.0,66,Healthy,False
+768,1.5833333333333333,Golf Gloves,Q2_Med,12.0,19,Warning,False
+771,3.530386740331492,Golf Gloves,Q4_Top,33.0,116,Healthy,False
+773,1.28125,Golf Gloves,Q3_High,31.0,39,Healthy,False
+775,3.414772727272727,Golf Gloves,Q2_Med,10.0,34,Warning,False
+777,3.5434782608695654,Golf Gloves,Q3_High,42.0,148,Healthy,False
+778,3.5139664804469275,Golf Gloves,Q3_High,4.0,14,Critical,False
+786,1.1555555555555554,Golf Gloves,Q3_High,51.0,58,Healthy,False
+792,3.306451612903226,Golf Balls,Q3_High,3.0,9,Critical,False
+793,3.3701923076923075,Golf Balls,Q3_High,84.0,283,Overstocked,False
+797,3.3035714285714284,Golf Balls,Q2_Med,23.0,75,Healthy,False
+804,2.907692307692308,Golf Balls,Q1_Low,14.0,40,Warning,False
+810,2.64179104477612,Golf Balls,Q1_Low,6.0,15,Critical,False
+818,2.3846153846153846,Electronics,Q3_High,15.0,35,Healthy,False
+821,2.6,Electronics,Q3_High,48.0,124,Healthy,False
+822,2.6557377049180326,Electronics,Q3_High,46.0,122,Healthy,False
+823,2.9814814814814814,Electronics,Q3_High,39.0,116,Healthy,False
+825,3.0172413793103448,Electronics,Q2_Med,6.0,18,Critical,False
+828,2.8,Electronics,Q2_Med,59.0,165,Healthy,False
+835,2.696969696969697,Electronics,Q2_Med,7.0,18,Critical,False
+845,1.125,Kids' Golf Clubs,Q1_Low,83.0,93,Overstocked,False
+858,1.0,Kids' Golf Clubs,Q1_Low,53.0,53,Healthy,False
+860,2.0,Kids' Golf Clubs,Q1_Low,11.0,22,Warning,False
+885,2.961038961038961,Accessories,Q2_Med,3.0,8,Critical,False
+886,2.782608695652174,Accessories,Q1_Low,12.0,33,Warning,False
+893,2.9384615384615387,Accessories,Q1_Low,13.0,38,Warning,False
+897,2.8536585365853657,Accessories,Q2_Med,26.0,74,Healthy,False
+905,2.6206896551724137,Accessories,Q1_Low,40.0,104,Healthy,False
+906,2.6184210526315788,Accessories,Q1_Low,85.0,222,Overstocked,False
+917,2.8026315789473686,Trade-In,Q1_Low,51.0,142,Healthy,False
+924,2.725,Trade-In,Q1_Low,4.0,10,Critical,False
+926,3.0,Trade-In,Q1_Low,43.0,129,Healthy,False
+957,4.32897384305835,Camping & Hiking,Q4_Top,28.0,121,Healthy,False
+977,2.8840579710144927,Hunting & Shooting,Q2_Med,42.0,121,Healthy,False
+981,4.071428571428571,Hunting & Shooting,Q2_Med,19.0,77,Healthy,False
+982,1.0476190476190477,Hunting & Shooting,Q1_Low,44.0,46,Healthy,False
+1004,3.897166841552991,Fishing,Q4_Top,60.0,233,Healthy,False
+1014,14.266871165644172,Indoor/Outdoor Games,Q4_Top,19.0,271,Healthy,False
+1059,1.6363636363636365,Water Sports,Q2_Med,4.0,6,Critical,False
+1073,7.153233830845771,Water Sports,Q4_Top,1.0,7,Critical,True
+1346,45.0,Books ,Q3_High,1.0,45,Critical,False
+1347,41.4,Baby ,Q3_High,40.0,1656,Healthy,False
+1348,45.16666666666666,CDs ,Q1_Low,12.0,542,Warning,False
+1349,59.2,Cameras ,Q4_Top,53.0,3137,Healthy,False
+1350,54.333333333333336,Children's Clothing,Q4_Top,101.0,5487,Overstocked,False
+1351,55.25,Computers,Q4_Top,8.0,442,Warning,False
+1352,53.875,Consumer Electronics,Q4_Top,44.0,2370,Healthy,False
+1353,53.77777777777778,Crafts,Q4_Top,51.0,2742,Healthy,False
+1354,48.3,DVDs,Q4_Top,8.0,386,Warning,False
+1355,60.5,Garden,Q4_Top,7.0,423,Critical,True
+1356,45.25,Health and Beauty,Q4_Top,14.0,633,Warning,False
+1357,52.0,Men's Clothing,Q4_Top,13.0,676,Warning,False
+1358,48.22222222222222,Music,Q4_Top,112.0,5400,Overstocked,False
+1359,54.66666666666666,Pet Supplies,Q4_Top,45.0,2460,Healthy,False
+1360,44.625,Sporting Goods,Q4_Top,24.0,1071,Healthy,False
+1361,48.09090909090909,Toys,Q2_Med,107.0,5145,Overstocked,False
+1362,55.86666666666667,Video Games,Q4_Top,46.0,2569,Healthy,False
+1363,59.09090909090909,Women's Clothing,Q4_Top,13.0,768,Warning,False
