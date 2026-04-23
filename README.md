@@ -10,10 +10,10 @@ End-to-end analytics platform turning 65,000+ shipment records into actionable f
 
 > *Early preview of the Power BI layer — full 5-dashboard platform releasing soon.*
 
-![Control Tower Dashboard](screenshots/01_control_tower.png)
+![Control Tower Dashboard](Screenshots/Supply_Chain_Tower.png)
 *Supply Chain Control Tower — real-time visibility across on-time rate, delay trends, and revenue at risk from late deliveries.*
 
-![Route Scorecard Dashboard](screenshots/02_route_scorecard.png)
+![Route Scorecard Dashboard](Screenshots/Route_Scorecard.png)
 *Route Segment Scorecard — composite reliability scoring across cost, delay, and on-time performance.*
 
 ---
